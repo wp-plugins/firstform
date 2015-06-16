@@ -30,9 +30,9 @@ A.Just add them to select an item.
 
 == Screenshots ==
 
-1.Configuration
-2.Inquiry list
-3.shortcode
+1. Configuration
+2. Inquiry list
+3. shortcode
 
 
 == Changelog ==
