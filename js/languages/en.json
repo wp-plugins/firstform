@@ -1,0 +1,17 @@
+{
+	"placeholder_name":"name element",
+	"required":"input required",
+	"email":"please check the input format of the email",
+	"zip":"please check the zipcode",
+	"tel":"please check the phone number",
+	"numeric":"please enter only numbers in",
+	"alphanumeric":"please enter alphanumeric ",
+	"select":"optionA:optionB",
+	"ext":"this is a file that can not be uploaded",
+	"size":"file size is too large",
+	"placeholder_sub":"'value element",
+	"submit":"submit",
+	"confirm":"confirm",
+	"reset":"reset",
+	"button":"button"
+}

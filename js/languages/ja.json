@@ -1,0 +1,17 @@
+{
+	"placeholder_name":"name要素",
+	"required":"入力必須です",
+	"email":"emailをご確認ください",
+	"zip":"郵便番号をご確認ください",
+	"tel":"電話番号をご確認ください",
+	"numeric":"数字のみでご入力ください",
+	"alphanumeric":"英数字でご入力ください",
+	"select":"選択A:選択B",
+	"ext":"アップロードできないファイルです",
+	"size":"ファイルサイズが大きすぎます",
+	"placeholder_sub":"'value要素",
+	"submit":"送信",
+	"confirm":"確認",
+	"reset":"リセット",
+	"button":"ボタン"
+}
