@@ -24,8 +24,9 @@ Just continue to add form items with a shortcode, you can create a form.
 
 == Frequently asked questions ==
 
-Q.How to add or validate forms ?
-A.Just add them to select an item.
+= Q. How to add or validate forms ? =
+
+A. Just add them to select an item.
 
 
 == Screenshots ==
